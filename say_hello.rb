@@ -1,1 +1,6 @@
-# Build your say_hello method here
+def greeting (Gabriela)
+  puts "Hello, #{Gabriela!}"
+end
+
+
+
