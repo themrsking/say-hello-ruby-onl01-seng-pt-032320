@@ -1,4 +1,4 @@
-def say_hello (Gabriela)
+def greeting (Gabriela)
   puts "Hello #{Gabriela}!"
 end
 
