@@ -1,5 +1,5 @@
 def greeting (gabriela)
-  puts "Hello #{Gabriela}!"
+  puts "Hello #{gabriela}!"
 end
 
 
